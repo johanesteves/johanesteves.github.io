@@ -1,0 +1,21 @@
+# Site settings
+title: A Story of Making and Breaking Code
+header-img: img/home-bg.png
+email: jsesteves91@gmail.com
+copyright_name: johanesteves
+description: > # this means to ignore newlines until "baseurl:"
+  The journey of programming 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  johanesteves
+learn_profile: johanesteves
+email_username: jsesteves91@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
