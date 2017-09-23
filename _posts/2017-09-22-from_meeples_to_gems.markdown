@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "From Meeples to Gems"
-date:   2017-09-22 19:12:19 +0000
+date:   2017-09-22 15:12:19 -0400
 ---
 
 
 What an adventure it has been so far from the basics of Ruby to publishing my own Gem. There were many bumps in the roads, but I excited to have a working gem published. This is my path to creating my first gem -- TopBoardGames!
 
 
-#### How to Start?!?
+## How to Start?!?
 
 My first thoughts after reading the project details was "How do I even get started?". For the majority of the lessons, we were given a starting point or some tests we could run to get an idea of what we needed to do.
 
@@ -16,7 +16,7 @@ There was none of this - simply a blank page on the screen.
 
 Luckily there were super helpful videos (and student examples) that had some walkthroughs giving an idea of what this project would look like. I dove into these in the evening and was excited to get started the next day.
 
-#### Looking for that special site
+## Looking for that special site
 
 I started by looking at a NY hiking site that listed top hikes in the NY area ([hikethehudsonvalley.com](http://www.hikethehudsonvalley.com)). The first page was already setup with a nice table, each table row being a different hike name so this part seemed simple enough. 
 
@@ -36,7 +36,7 @@ Panoramic views, beautiful trails, the burning of many, many calories
 
 I decided to move on and landed on [BoardGameGeek](http://www.boardgamegeek.com), a site that was essentially a database for board games, card games and more!
 
-#### Scrape away!
+## Scrape away!
 
 Right off the bat, I had a list of top 100 board games in a nice table format with the rank, name and rating. Each section had a different class, making it easy to scrape the text along with the board game URL.
 
@@ -57,7 +57,7 @@ I went on to the check out the boardgame description page to look for more data 
 
 All of this looked pretty accessible...until I looked at the source code.
 
-#### APIs to the rescue
+## APIs to the rescue
 
 Now looking at the source code, I realized that this data was not simply text in the HTML code. It looked like it was being populated through the use of JavaScript. I spent some time (possibly too much) digging around seeing what I could extract using Nokogiri. 
 
@@ -73,7 +73,7 @@ I still planned on using Nokogiri and after a playing around with the page, I wa
 
 I didn't have any project files yet, so I saved my code in a TextEdit file. Not the cleanest but worked for keeping track
 
-#### Moving On
+## Moving On
 
 Now that I knew what data I was scraping for and had my Nokogiri code set, I was ready to move on and actually start building the gem. Throughout this process, I read up on the (long) Nokogiri documentation and learned a ton of methods that made scraping much easier.
 
