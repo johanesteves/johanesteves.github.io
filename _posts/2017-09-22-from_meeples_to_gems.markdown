@@ -80,3 +80,5 @@ Now that I knew what data I was scraping for and had my Nokogiri code set, I was
 I was excited to move forward using what I learned from the walkthrough videos and my own Googling skills. I learned to use the guides and examples as a template, but not a step by step as each person's gem will be different and involve different steps.
 
 I was looking forward to the new challenges that would arise...
+
+# New Header
