@@ -73,11 +73,10 @@ I still planned on using Nokogiri and after a playing around with the page, I wa
 
 I didn't have any project files yet, so I saved my code in a TextEdit file. Not the cleanest but worked for keeping track
 
-## Moving On
+### Moving On
 
 Now that I knew what data I was scraping for and had my Nokogiri code set, I was ready to move on and actually start building the gem. Throughout this process, I read up on the (long) Nokogiri documentation and learned a ton of methods that made scraping much easier.
 
 I was excited to move forward using what I learned from the walkthrough videos and my own Googling skills. I learned to use the guides and examples as a template, but not a step by step as each person's gem will be different and involve different steps.
 
 I was looking forward to the new challenges that would arise...
-Testing
