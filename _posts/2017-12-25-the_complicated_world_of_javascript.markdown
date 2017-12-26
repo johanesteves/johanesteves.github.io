@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The complicated world of Javascript "
-date:       2017-12-26 03:25:56 +0000
+date:       2017-12-25 22:25:57 -0500
 permalink:  the_complicated_world_of_javascript
 ---
 
@@ -10,7 +10,7 @@ Coming from Ruby, Javascript seems like it is more complicated than it should. I
 
 Javascript seems like it was made to confuse programmers to keep us on our toes! Despite this, its highly used and it necessary to do fancy client-side stuff so we will have to dive right in. 
 
-### The preparation
+## The preparation
 
 Going through the course, it seems like we went head first into learning JS, which may be good for those who have had some experience with programming in the past. I found my self re-reading the same text (which may also be a result of long days), as I kept expecting it do the same as Ruby. As I progressed, I found myself constantly comparing it to Ruby, thinking why would someone ever use this when Ruby exists. JS sure seemed like a language built in 10 days.
 
@@ -20,7 +20,7 @@ While I know I only scratched the surface of Javascript, it increased my curiosi
 
 For now, I can take what I learn and move to see how it could be used to the all-powerful Rails. 
 
-### Rails + JS refactor
+# Rails + JS refactor
 
 Right off the bat, I saw so many changes I could make using Javascript while I reviewed my previous Rails. Simple things like form submissions could be done on the fly with the use of AJAX and automatically update the DOM.
 
@@ -32,6 +32,6 @@ My next task was to update my report filter button to update the page based on t
 
 Once again, I hijacked the form submission event and used an AJAX GET request to return a list of object instances that had a date that matched the dates selected. This querying was still being done by my Model/Controller.
 
-### Conclusion
+## Conclusion
 
 While I was able to implement some simple AJAX calls into my Rails app using JS, I know I only scratched the surface and I am excited to keep researching and learning more way I can implement JS into my apps in the future. 
