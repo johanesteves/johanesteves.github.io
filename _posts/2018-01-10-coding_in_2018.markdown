@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Coding in 2018"
+date:       2018-01-10 15:02:10 +0000
+permalink:  coding_in_2018
+---
+
+
+2018 is set to be a huge year for me. While looking forward to starting a new career and job, I am excited to use my newfound skills to create web apps on the side and evolve myself as a programmer. 
+
+My first idea on the roadmap is to start looking at the Twitter API to see if I can automate a tweet of some sort. Currently, slickdeals has an offer that if you retweet one of their posts, you are entered into a giveaway to win a prize. The catch about this is that you have to do this daily and have to do it manually. While for some who enjoy Twitter may like this, it seems easier to create some app that automates this.
+
+On a similar note, potentially creating a similar app for Instrgam where you are able to follow or comment daily to be entered in any Instagram sweepstakes. 
+
+I would also like to create an app that somehow uses Google Maps and plots out points on a map. I am not sure how this would look yet, but I plan to have a read of the API (if any) soon.
+
+And this is what excites mine as a programmer. Being able to create a shortcut to problems I have (or because I am lazy). As I continue on through the year, I will keep an eye out for problems that need fixing or tasks that need shortcuts. I will take these and try to build it out in programming, making my and others lives easier. I cannot wait for 2018.
